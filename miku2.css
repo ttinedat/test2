@@ -1,0 +1,16 @@
+table{
+    width: 500px;
+    border: 1px solid red;
+    height: 50px;
+}
+th{
+    border: 1px solid red;
+}
+td{
+    border: 1px solid red;
+    width: 160px;
+}
+textarea{
+    background-color: red;
+}
+
